@@ -44,3 +44,5 @@ This project analyzes 119,390 hotel bookings representing $42.72M in total reven
 - Aggregations & Analytics: Excel Formulas, Pivot Tables, and statistical measures.
 
 - Dashboard Design: Custom layout, KPI cards, visual hierarchy, interactive slicers (Hotel Type, Customer Type, Years).
+
+![Dashboard Preview](Dashboard.png)
